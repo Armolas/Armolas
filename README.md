@@ -15,8 +15,6 @@ I am a graduating student from the ALX Software Engineering Program, where I dev
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 - 💬 Ask me about **Backend Development, API Design, and Agriculture Technology**
 - 📫 How to reach me **[armolas06@gmail.com](mailto:armolas06@gmail.com)**
-- 🌐 Visit my portfolio **[Your Portfolio Link](https://your-portfolio.com)**
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -96,8 +94,8 @@ I love collaborating on projects and contributing to open-source. Here are a few
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Arowolo-Muritadhor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YourProfile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/ArowoloMuritadhor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/armolas_06" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:armolas06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
