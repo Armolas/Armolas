@@ -12,7 +12,7 @@
 
 I am a graduating student from the ALX Software Engineering Program, where I developed a deep passion for software engineering, particularly in the intersection of technology and agriculture. My goal is to leverage my technical skills to enhance food security and create sustainable agricultural solutions. With a background in agriculture and a strong foundation in software development, I am eager to apply my knowledge to real-world challenges.
 
-- 🌱 I’m currently learning **DevOps and Cloud Computing**
+- 🌱 I’m currently learning about **Blockchain Technology**
 - 💬 Ask me about **Backend Development, API Design, and Agriculture Technology**
 - 📫 How to reach me **[armolas06@gmail.com](mailto:armolas06@gmail.com)**
 - 🌐 Visit my portfolio **[website](https://armolasportfolio.netlify.app)**
