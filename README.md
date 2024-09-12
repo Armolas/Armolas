@@ -15,6 +15,7 @@ I am a graduating student from the ALX Software Engineering Program, where I dev
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 - 💬 Ask me about **Backend Development, API Design, and Agriculture Technology**
 - 📫 How to reach me **[armolas06@gmail.com](mailto:armolas06@gmail.com)**
+- 🌐 Visit my portfolio **[website](https://armolasportfolio.netlify.app)**
 ---
 
 ### 🛠️ Languages and Tools
@@ -38,25 +39,25 @@ I am a graduating student from the ALX Software Engineering Program, where I dev
 
 Here are some of the projects I have worked on that showcase my skills and passion:
 
-#### [Airbnb Clone](https://github.com/Armolas/Airbnb-Clone)
+#### [Airbnb Clone](https://github.com/Y4h14/AirBnB_clone_v4)
 A full-stack web application that mimics the core functionalities of Airbnb, allowing users to list and book accommodations. Developed using Django, ReactJS, and PostgreSQL.
 
 - **Role**: Backend Engineer, Database Modelling, API Endpoints
 - **Highlights**: Implemented robust authentication, created RESTful API endpoints, and designed a scalable database schema.
 
-#### [Simple Shell](https://github.com/Armolas/Simple-Shell)
+#### [Simple Shell](https://github.com/Armolas/simple_shell)
 A simple UNIX command line interpreter written in C that mimics the functionalities of the shell.
 
 - **Role**: Developer
 - **Highlights**: Gained experience with low-level programming and system calls.
 
-#### [Monty Interpreter](https://github.com/Armolas/Monty-Interpreter)
+#### [Monty Interpreter](https://github.com/Armolas/monty)
 A bytecode interpreter for Monty ByteCodes files.
 
 - **Role**: Backend Engineer
 - **Highlights**: Strengthened understanding of data structures and algorithms.
 
-#### [Cinemart](https://github.com/Armolas/Cinemart)
+#### [Cinemart](https://github.com/ObamtechNetworks/Movie-Ticketing-Platform)
 A movie ticket booking system that provides users with information about current movies and allows them to purchase tickets online.
 
 - **Role**: Backend Engineer, API Development, Authentication
